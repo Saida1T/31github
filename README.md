@@ -1,2 +1,2 @@
 # MyWebsite
-Website for my portfolio and projects
+Website for my progects and cods
